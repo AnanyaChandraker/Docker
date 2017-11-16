@@ -2,6 +2,6 @@ docker.com
 
 create your script to install different application
 
-docker build -t <name of image>
+docker build -t <name of image> <dot to initiate building of docker>
 
-docker build -t linux
+docker build -t linux .
