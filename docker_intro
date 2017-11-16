@@ -1,0 +1,7 @@
+docker.com
+
+create your script to install different application
+
+docker build -t <name of image>
+
+docker build -t linux
